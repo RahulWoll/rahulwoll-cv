@@ -37,6 +37,7 @@ Open `http://localhost:4321` and edit `src/data/cv.yaml`. The page reloads as yo
 |---|---|
 | CV content | `src/data/cv.yaml` |
 | Accent color | `accent` in `src/data/cv.yaml` |
+| Demo banner (remove for your CV) | `demo` in `src/data/cv.yaml` |
 | Site URL (canonical and Open Graph) | `site` in `astro.config.mjs` |
 | Layout and sections | `src/pages/index.astro` |
 | Screen and print styles | `src/styles/global.css` |

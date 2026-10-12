@@ -36,6 +36,11 @@ const displayUrl = (url: string) => url.replace(/^https?:\/\/(www\.)?/, '').repl
     <style is:inline set:html={inlineStyles}></style>
   </head>
   <body>
+    {cv.demo && (
+      <p class="demo-notice screen-only">
+        Sample CV for the <a href="https://github.com/sht/astro-awesome-cv">astro-awesome-cv</a> Astro theme. Use it for your own CV, it's free and open source.
+      </p>
+    )}
     <main class="page">
       <header class="cv-header">
         <h1><span class="first-name">{firstName}</span> {lastNames.join(' ')}</h1>

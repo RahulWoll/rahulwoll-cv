@@ -5,6 +5,7 @@ export const cvSchema = z.object({
   role: z.string(),
   location: z.string(),
   accent: z.string().default('#dc3522'),
+  demo: z.boolean().default(false),
   summary: z.string(),
   contact: z.object({ email: z.string(), linkedin: z.url(), github: z.url() }),
   projects: z.array(z.object({ title: z.string(), description: z.string() })),
