@@ -2,6 +2,7 @@
 import { parse } from 'yaml';
 import cvSource from '../data/cv.yaml?raw';
 import ExperienceEntry from '../components/ExperienceEntry.astro';
+import SectionTitle from '../components/SectionTitle.astro';
 import { cvSchema } from '../types';
 import '../styles/global.css';
 import '@fontsource/source-sans-3/300.css';
@@ -49,17 +50,17 @@ const displayUrl = (url: string) => url.replace(/^https?:\/\/(www\.)?/, '').repl
       </header>
 
       <section>
-        <h2>Summary</h2>
+        <SectionTitle title="Summary" />
         <p class="detail">{cv.summary}</p>
       </section>
 
       <section>
-        <h2>Experience</h2>
+        <SectionTitle title="Experience" />
         {cv.experience.map((employer) => <ExperienceEntry employer={employer} />)}
       </section>
 
       <section>
-        <h2>Projects</h2>
+        <SectionTitle title="Projects" />
         {cv.projects.map((item) => (
           <div class="project">
             <h3>{item.title}</h3>
@@ -69,14 +70,14 @@ const displayUrl = (url: string) => url.replace(/^https?:\/\/(www\.)?/, '').repl
       </section>
 
       <section>
-        <h2>Skills</h2>
+        <SectionTitle title="Skills" />
         <dl class="skills">
           {cv.skills.map((group) => <><dt>{group.category}</dt><dd>{group.items}</dd></>)}
         </dl>
       </section>
 
       <section>
-        <h2>Education</h2>
+        <SectionTitle title="Education" />
         {cv.education.map((item) => (
           <div class="entry">
             <div class="entry-heading"><h3>{item.degree}</h3><span class="date">{item.dates}</span></div>
@@ -88,11 +89,11 @@ const displayUrl = (url: string) => url.replace(/^https?:\/\/(www\.)?/, '').repl
 
       <section class="two-col">
         <div>
-          <h2>Recognition</h2>
+          <SectionTitle title="Recognition" />
           {cv.recognition.map((item) => <div class="entry"><h3>{item.title}</h3><p class="detail">{item.note}</p></div>)}
         </div>
         <div>
-          <h2>Languages</h2>
+          <SectionTitle title="Languages" />
           <p class="detail">{cv.languages}</p>
         </div>
       </section>

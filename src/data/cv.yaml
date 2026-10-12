@@ -3,7 +3,7 @@ name: John Doe
 role: Senior Software Engineer / Platform
 location: Amsterdam, Netherlands
 # Optional. Any CSS color; see README for Awesome-CV presets.
-accent: '#1f6fb2'
+accent: '#dc3522'
 summary: Software engineer with 9+ years building backend systems and developer platforms for e-commerce and fintech. I care about reliable services, fast feedback loops and helping teams ship with confidence.
 contact:
   email: john.doe@example.com
