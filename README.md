@@ -6,6 +6,8 @@ An [Astro](https://astro.build/) theme for your CV, inspired by the LaTeX templa
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/sht/astro-awesome-cv)
 
+[![Astro Awesome CV screenshot](docs/screenshot.png)](https://astro-awesome-cv.sek4.com)
+
 ## Features
 
 - All content in `src/data/cv.yaml`, validated at build time so a typo fails the build instead of silently disappearing
