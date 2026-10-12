@@ -1,12 +1,12 @@
 # Edit this file to update all text rendered by the site.
-name: Alex Morgan
+name: John Doe
 role: Senior Software Engineer / Platform
 location: Amsterdam, Netherlands
 # Optional. Any CSS color; see README for Awesome-CV presets.
 accent: '#1f6fb2'
 summary: Software engineer with 9+ years building backend systems and developer platforms for e-commerce and fintech. I care about reliable services, fast feedback loops and helping teams ship with confidence.
 contact:
-  email: alex.morgan@example.com
+  email: john.doe@example.com
   linkedin: https://www.linkedin.com/in/example
   github: https://github.com/example
 projects:
