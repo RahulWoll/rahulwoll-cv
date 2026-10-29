@@ -1,12 +1,12 @@
 # Edit this file to update all text rendered by the site.
 name: Rahul Sharma
-role: AI-Driven SEO & Digital Marketing Specialist / Platform
+role: AI-Driven SEO & Digital Marketing Specialist / Technical SEO Manager
 location: India, Available for Remote Worldwide
 # Optional. Any CSS color; see README for Awesome-CV presets.
-accent: '#dc3522'
+accent: '#414141'
 # Shows a banner that marks this page as the theme demo. Remove this line for your own CV.
 demo: true
-summary: Results-driven Digital Marketing and SEO Strategist with 5+ years of experience scaling organic growth, programmatic content engines, and multi-channel PPC campaigns. Proven expertise in integrating generative AI, prompt engineering, and automated workflows into SEO operations to double organic pipeline while maintaining strict human editorial oversight. Adept at leveraging Google Analytics 4, Ahref, SEMrush, and LLM-assisted research to drive predictable ROI.
+summary: Results-driven Digital Marketing and SEO Strategist with 6+ years of experience scaling organic growth, programmatic content engines, and multi-channel PPC campaigns. Proven expertise in integrating generative AI, prompt engineering, and automated workflows into SEO operations to double organic pipeline while maintaining strict human editorial oversight. Adept at leveraging Google Analytics 4, Ahref, SEMrush, and LLM-assisted research to drive predictable ROI.
 contact:
   email: rahul-sharma@outlook.in
   linkedin: https://www.linkedin.com/in/rahulwoll
@@ -75,20 +75,20 @@ experience:
 skills:
   - category: Languages
     items: HTML · Astro · TypeScript · MySQL
-  - category: Achievements in 2024
-    items:  · Top 100 Web Development Bloggers in the World. (Logicalidea.co) FeedSpot / Detailed.com 
+  - category: Achievements
+    items: Top 100 Web Development Bloggers in the World. FeedSpot / Detailed.com 
   - category: Practices
     items: Linux · Wix/WordPress/Shopify/Webflow Management · CI/CD · Website Maintenance
 recognition:
-  - title: User Interaction Research
+  - title: User Interaction Research, United States
     note: User studies, Control HICS remotely through iPad application
-  - title: JUMP MOVEMENT BV
-    note: If we all jump, we will move the world, Netherlands
+  - title: JUMP MOVEMENT BV, Netherlands
+    note: If we all jump, we will move the world, 
 education:
   - degree: Master's in Computer Application
     institution: Lovely Professional University, India
     dates: 2016 – 2018
-    note: Thesis on distributed consensus protocols
+    note: Awardee, Hospice Care Management Platform Development
   - degree: Bachelor of Science in Information Technology
     institution: Lovely Professional University, India
     dates: 2013 – 2016
