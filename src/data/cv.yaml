@@ -1,95 +1,95 @@
 # Edit this file to update all text rendered by the site.
-name: John Doe
-role: Senior Software Engineer / Platform
-location: Amsterdam, Netherlands
+name: Rahul Sharma
+role: AI-Driven SEO & Digital Marketing Specialist / Platform
+location: India, Available for Remote Worldwide
 # Optional. Any CSS color; see README for Awesome-CV presets.
 accent: '#dc3522'
 # Shows a banner that marks this page as the theme demo. Remove this line for your own CV.
 demo: true
-summary: Software engineer with 9+ years building backend systems and developer platforms for e-commerce and fintech. I care about reliable services, fast feedback loops and helping teams ship with confidence.
+summary: Results-driven Digital Marketing and SEO Strategist with 5+ years of experience scaling organic growth, programmatic content engines, and multi-channel PPC campaigns. Proven expertise in integrating generative AI, prompt engineering, and automated workflows into SEO operations to double organic pipeline while maintaining strict human editorial oversight. Adept at leveraging Google Analytics 4, Ahref, SEMrush, and LLM-assisted research to drive predictable ROI.
 contact:
-  email: john.doe@example.com
-  linkedin: https://www.linkedin.com/in/example
-  github: https://github.com/example
+  email: rahul-sharma@outlook.in
+  blog: https://logicalidea.co
+  github: https://github.com/RahulWoll
 projects:
-  - title: Open source feature flag service
-    description: Built and maintain a lightweight feature flag service in Go, used by several small teams for gradual rollouts and kill switches.
-  - title: Kafka consumer lag exporter
-    description: Prometheus exporter that reports consumer group lag per partition, with alerting rules and a Grafana dashboard.
+  - title: Medium Superstar Author
+    description: Recognized as a Top Writer/Superstar Author on Medium, consistently ranking in the top percentile for engagement, claps, and shares within technical publications.
+  - title: User Interaction Research Citation.
+    description: Recognized as definitive guides for building human-centered, empathetic digital interfaces and user interactions.
 experience:
-  - company: Northwind Commerce
-    location: Amsterdam, Netherlands
+  - company: Sunyu Products & Services Pte Ltd
+    location: Singapore, Remote
     roles:
-      - title: Staff Software Engineer
-        dates: Jan 2025 – Present
+      - title: Digital Marketing Specialist
+        dates: Jan 2024 – Present
         points:
-          - Own the technical roadmap for the checkout and payments domain across 3 teams.
-          - Designed a multi-region failover setup for order processing with a recovery time under 5 minutes.
-          - Drove the move from a shared database to service-owned data stores for 12 services.
-          - Run architecture reviews and write design guidelines adopted across engineering.
-          - Partnered with product and finance to plan the rollout of 2 new payment methods.
-      - title: Senior Software Engineer
-        dates: Mar 2022 – Dec 2024
+          - Set up, launch, and manage paid ads across platforms like Google Ads (search, display, shopping, video).
+          - Conduct keyword research, competitor analysis, and audience segmentation to align ads with market trends and seasonal collections.
+          - Partner with graphic designers, copywriters, and video editors to build high-converting landing pages and promotional assets.
+          - Track key performance metrics such as CTR, conversion rates, and ROI—using tools like Google Analytics and generate regular performance reports.
+          - Monitor campaigns daily, adjust bids, test ad creatives, and refine audience targeting to lower cost-per-lead.
+      - title: Digital Marketing Executive
+        dates: Mar 2023 – Dec 2024
         points:
-          - Led the migration of the checkout platform to an event-driven architecture, reducing order processing latency by 40%.
-          - Introduced service level objectives and on-call runbooks across 6 backend teams.
-          - Mentored 4 engineers and ran the internal backend guild.
-          - Reduced cloud costs of the checkout platform by 25% through right-sizing and autoscaling.
-      - title: Software Engineer
-        dates: Jan 2019 – Mar 2022
+          - Build and structure campaigns in Google Ads (Search, Display, Performance Max, YouTube) and TikTok Ads Manager (In-Feed, Spark Ads, Video Shopping Ads).
+          - Allocate and monitor daily/monthly ad spend to maximize ROAS (Return on Ad Spend), control CPA (Cost Per Acquisition), and scale winning campaigns.
+          - Configure conversion tracking via Google Tag Manager (GTM), GA4, Google Conversion Tracking, and TikTok Pixel / Events API.
+          - Partner with video editors and designers to test short-form UGC (User-Generated Content), hooks, copy, and visual assets built natively for TikTok and search intent for Google.
+      - title: Technical SEO Manager
+        dates: Jan 2022 – Mar 2023
         points:
-          - Built the internal deployment pipeline used by 30+ services.
-          - Designed the product catalogue search API serving 2,000 requests per second at peak.
-          - Moved service configuration to Terraform and removed manual changes in production.
-          - Added distributed tracing across the order flow, cutting incident investigation time.
-          - Led the on-call rotation redesign that reduced pages outside working hours by 60%.
-  - company: Contoso Payments
-    location: Berlin, Germany
+          - Run comprehensive technical site audits to identify crawl errors, broken links (4xx/5xx), duplicate content, and indexation blockers
+          - Manage XML sitemaps, robots.txt directives, canonical tags, and noindex configurations.
+          - Improve page speed, image compression, browser caching, minification, and Core Web Vitals (LCP, INP, CLS).
+          - Translate technical SEO recommendations into clear tickets/specs for the engineering and CMS (e.g., WordPress) development teams and verify fixes post-deployment.
+          - Monitor performance via Google Search Console, Google Analytics 4 (GA4), and SEO platforms.
+  - company: Vibez Holding LLC
+    location: United States, Remote
     roles:
-      - title: Backend Engineer
-        dates: Jun 2016 – Dec 2018
+      - title: Shopify SEO/E-Commerce Growth Specialist
+        dates: Jun 2019 – Dec 2022
         points:
-          - Developed payment reconciliation services and integrations with 3 acquiring banks.
-          - Improved test coverage of the core ledger from 45% to 85%.
-          - Built a dispute handling workflow that cut manual chargeback work by half.
-          - Added idempotency keys to the payment API, removing duplicate charges caused by client retries.
-          - Set up contract tests between the ledger and reporting services.
-          - Took part in PCI DSS audits and fixed findings in the card data flow.
-  - company: Fabrikam International Logistics and Supply Chain Solutions GmbH
-    location: Hamburg, Germany
+          - Audit and fix crawl errors, index coverage issues, canonical tags, and broken links.
+          - Optimize site speed, mobile responsiveness, and Core Web Vitals without breaking the customer checkout flow.
+          - Conduct keyword research targeting high-intent, transactional product and category queries.
+          - Optimize meta titles, meta descriptions, H1 tags, product descriptions, and image alt text.
+          - Improve internal linking structures and clean up duplicate content or cannibalized pages.
+          - Track organic traffic, keyword rankings, conversion rates, and attributed sales via Google Search Console and GA4.
+  - company: Eastman Cast & Forge Limited (ECFL)
+    location: Ludhiana, India
     roles:
-      - title: Junior Software Engineer
-        dates: Aug 2014 – May 2016
+      - title: Digital Brand Manager - Ecommerce and SEO
+        dates: Jul 2016 – Mar 2017
         points:
-          - Maintained the shipment tracking platform used by 200+ warehouse partners.
-          - Replaced nightly batch imports with an incremental sync, reducing data delays from 24 hours to 15 minutes.
-          - Wrote integration tests for carrier APIs and documented the release process.
-          - Built a label printing service that handled peak season volume without manual work.
-          - Introduced code review guidelines and a shared linting setup for the team.
-      - title: Software Engineering Intern
-        dates: Feb 2014 – Jul 2014
+          - Define end-to-end messaging, visual identity, and positioning across digital channels, product detail pages (PDPs), and social platforms.
+          - Own revenue targets, pricing strategies, gross margins, promotional calendars, and advertising spend (ROAS).
+          - Plan and launch integrated digital campaigns spanning performance marketing, social media, brand partnerships through Flipkar, Amazon, Paytm, and seasonal promotions.
+          - Track key performance indicators (KPIs) such as traffic, conversion rates, customer acquisition cost (CAC), and repeat purchase rates using tools like Google Analytics.
+          - Monitor competitor activities, consumer behavior shifts, and emerging digital/AI tools.
+      - title: Technical SEO 
+        dates: Jan 2016 – Jul 2016
         points:
-          - Built an internal dashboard for warehouse capacity planning.
-          - Automated weekly reporting that previously took 1 day of manual work.
-          - Wrote a data quality checker for incoming partner shipment files.
+          - Run comprehensive technical site audits to identify crawl errors, broken links (4xx/5xx), duplicate content, and indexation blockers
+          - Conduct keyword research, competitor analysis, and audience segmentation to align ads with market trends and seasonal collections.
+          - Implement JSON-LD or Schema markup to enable rich snippets in search results.
 skills:
   - category: Languages
-    items: Go · TypeScript · Python · SQL
-  - category: Platform
-    items: Kubernetes · Terraform · AWS · PostgreSQL · Kafka
+    items: HTML · Astro · TypeScript · MySQL
+  - category: Achievements in 2024
+    items:  · Top 100 Web Development Bloggers in the World. (Logicalidea.co) FeedSpot / Detailed.com 
   - category: Practices
-    items: System design · Observability · CI/CD · Code review
+    items: Linux · Wix/WordPress/Shopify/Webflow Management · CI/CD · Website Maintenance
 recognition:
-  - title: Speaker, GopherCon EU
-    note: Talk on event-driven checkout systems, 2024
-  - title: Engineering Excellence Award
-    note: Northwind Commerce, 2023
+  - title: User Interaction Research
+    note: User studies, Control HICS remotely through iPad application
+  - title: JUMP MOVEMENT BV
+    note: If we all jump, we will move the world, Netherlands
 education:
-  - degree: Master's in Computer Science
-    institution: University of Amsterdam, Netherlands
-    dates: 2014 – 2016
+  - degree: Master's in Computer Application
+    institution: Lovely Professional University, India
+    dates: 2016 – 2018
     note: Thesis on distributed consensus protocols
-  - degree: Bachelor's in Computer Science
-    institution: Delft University of Technology, Netherlands
-    dates: 2011 – 2014
-languages: English · Dutch · German
+  - degree: Bachelor of Science in Information Technology
+    institution: Lovely Professional University, India
+    dates: 2013 – 2016
+languages: English · Hindi · Punjabi
