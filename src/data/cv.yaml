@@ -72,9 +72,10 @@ experience:
           - Run comprehensive technical site audits to identify crawl errors, broken links (4xx/5xx), duplicate content, and indexation blockers
           - Conduct keyword research, competitor analysis, and audience segmentation to align ads with market trends and seasonal collections.
           - Implement JSON-LD or Schema markup to enable rich snippets in search results.
+          - Improve page speed, image compression, browser caching, minification, and Core Web Vitals (LCP, INP, CLS).
 skills:
   - category: Languages
-    items: HTML · Astro · TypeScript · MySQL
+    items: HTML/CSS · Astro · MySQL
   - category: Achievements
     items: Top 100 Web Development Bloggers in the World. FeedSpot / Detailed.com 
   - category: Practices
