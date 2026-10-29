@@ -57,6 +57,19 @@ experience:
           - Optimize meta titles, meta descriptions, H1 tags, product descriptions, and image alt text.
           - Improve internal linking structures and clean up duplicate content or cannibalized pages.
           - Track organic traffic, keyword rankings, conversion rates, and attributed sales via Google Search Console and GA4.
+  - company: Tekki Web Solutions Inc
+    location: Ludhiana, India
+    roles:
+      - title: Digital Growth Specialist
+        dates: Mar 2017 – Jan 2018
+        points:
+          - Audit and fix crawl errors, index coverage issues, canonical tags, and broken links.
+          - Strong understanding of HTML, CSS, JavaScript rendering (client-side vs. server-side), and semantic schema markup (JSON-LD).
+          - Manage core configurations via advanced plugins (Yoast, RankMath) and custom code. Troubleshoot database bloat, theme scripts, and plugin conflicts affecting crawl budget.
+          - Optimize meta titles, meta descriptions, H1 tags, product descriptions, and image alt text.
+          - Improve internal linking structures and clean up duplicate content or cannibalized pages.
+          - Track organic traffic, keyword rankings, conversion rates, and attributed sales via Google Search Console and GA4.
+
   - company: Eastman Cast & Forge Limited (ECFL)
     location: Ludhiana, India
     roles:
