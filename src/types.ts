@@ -4,7 +4,7 @@ export const cvSchema = z.object({
   name: z.string(),
   role: z.string(),
   location: z.string(),
-  accent: z.string().default('#dc3522'),
+  accent: z.string().default('#07756d'),
   demo: z.boolean().default(false),
   summary: z.string(),
   contact: z.object({ email: z.string(), linkedin: z.url(), github: z.url() }),
