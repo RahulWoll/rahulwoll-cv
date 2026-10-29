@@ -6,7 +6,7 @@ location: India, Available for Remote Worldwide
 accent: '#414141'
 # Shows a banner that marks this page as the theme demo. Remove this line for your own CV.
 demo: true
-summary: Results-driven Digital Marketing and SaaS SEO Strategist with 6+ years of experience scaling organic growth, programmatic content engines, and multi-channel PPC campaigns. Expert in platform-specific Technical SEO, optimizing core architecture, rendering strategies, and performance across Next.js, Astro, Shopify, WordPress, and Webflow. Proven expertise in integrating generative AI, prompt engineering, and automated workflows into SEO operations to double organic pipeline while maintaining strict human editorial oversight. Adept at leveraging Google Analytics 4, Ahrefs, SEMrush, and LLM-assisted research to drive predictable ROI.
+summary: Results-driven Digital Marketing and SEO Strategist with 6+ years of experience scaling organic growth, programmatic content engines, and multi-channel PPC campaigns. Expert in platform-specific Technical SEO, optimizing core architecture, rendering strategies, and performance across Next.js, Astro, Shopify, Wix, WordPress, and Webflow. Proven expertise in integrating generative AI, prompt engineering, and automated workflows into SEO operations to double organic pipeline while maintaining strict human editorial oversight. Adept at leveraging Google Analytics 4, Ahrefs, SEMrush, and LLM-assisted research to drive predictable ROI.
 contact:
   email: rahul-sharma@outlook.in
   linkedin: https://www.linkedin.com/in/rahulwoll
@@ -28,6 +28,7 @@ experience:
           - Partner with graphic designers, copywriters, video editors and developers to build high-converting landing pages and promotional assets.
           - Track key performance metrics such as CTR, conversion rates, and ROI—using tools like Google Analytics and generate regular performance reports.
           - Monitor campaigns daily, adjust bids, test ad creatives, and refine audience targeting to lower cost-per-lead.
+          - Optimize Server-Side Rendering (SSR), Static Site Generation (SSG), and Incremental Static Regeneration (ISR). Manage dynamic XML sitemaps, structured data, canonicalization, and metadata routing in headless environments.
       - title: Digital Marketing Executive
         dates: Mar 2023 – Dec 2024
         points:
@@ -40,10 +41,10 @@ experience:
         points:
           - Run comprehensive technical site audits to identify crawl errors, broken links (4xx/5xx), duplicate content, and indexation blockers
           - Manage XML sitemaps, robots.txt directives, canonical tags, and noindex configurations.
-          - Implement and monitor multi-regional and multilingual setups accurately across all platforms.
+          - Audit and improve Largest Contentful Paint (LCP), Interaction to Next Paint (INP), and Cumulative Layout Shift (CLS) across all platforms.
           - Translate technical SEO recommendations into clear tickets/specs for the engineering and CMS (e.g., WordPress) development teams and verify fixes post-deployment.
           - Monitor performance via Google Search Console, Google Analytics 4 (GA4), and SEO platforms.
-          - Drive Core Web Vitals optimization (LCP, INP, CLS) by managing image compression, lazy loading, server response times (TTFB), and CDN configurations.
+          - Mastery of Screaming Frog, DeepCrawl, Google Search Console, Ahrefs, Semrush, and Google Lighthouse.
   - company: Vibez Holding LLC
     location: United States, Remote
     roles:
@@ -77,7 +78,6 @@ experience:
 skills:
   - category: Languages
     items: HTML/CSS · Astro · MySQL
-    items: Mastery of Screaming Frog, DeepCrawl, Google Search Console, Ahrefs, Semrush, and Google Lighthouse.
   - category: Achievements
     items: Top 100 Web Development Bloggers in the World. FeedSpot / Detailed.com 
   - category: Practices
@@ -87,7 +87,7 @@ recognition:
     note: User studies, Control HICS remotely through iPad application
   - title: JUMP MOVEMENT BV, Netherlands
     note: If we all jump, we will move the world
-education: 
+education:
   - degree: Master's in Computer Application
     institution: Lovely Professional University, India
     dates: 2016 – 2018
